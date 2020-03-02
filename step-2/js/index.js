@@ -7,12 +7,12 @@ const internalStylesheet = `
 slot {
     display: flex;
     flex-direction: row;
-
 }
 ::slotted(p){
-    border: 1px solid red;
-    margin: 0;
     padding: 0.5rem;
+    margin: 0 0.5rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
     background-color: yellow;
 }
 `;
