@@ -1,4 +1,4 @@
-# CSS Variables
+# Step 1
 
 The **Shadow DOM** feature allows you to insulate part of the DOM from the rest of your HTML page.
 

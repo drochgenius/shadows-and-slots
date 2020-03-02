@@ -1,6 +1,11 @@
-p {
-    color: blue;
-    font-family: sans-serif;
-    font-size: 1.25rem;
-    padding: 0.5rem;
+#first {
+    --text-color: red;
+}
+
+#second {
+    --text-color: green;
+}
+
+#third {
+    --text-color: blue;
 }
