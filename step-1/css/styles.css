@@ -1,0 +1,7 @@
+p {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+    border: 1px dashed blue;
+    padding: 0.5rem;
+}
